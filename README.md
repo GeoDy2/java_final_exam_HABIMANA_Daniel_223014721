@@ -108,29 +108,10 @@ Informal user acceptance testing (UAT)
 
 All essential system functions were verified to operate correctly.
 
-**Project Structure**
-src/
-├── com.form/
-│   ├── LoginForm.java
-│   ├── ResearchPMS.java
-│   ├── UIStyle.java
-│   └── DB.java
-│
-├── com.panel/
-│   ├── DashboardPanel.java
-│   ├── DatasetPanel.java
-│   ├── ExperimentPanel.java
-│   ├── FundingPanel.java
-│   ├── MyProfilePanel.java
-│   ├── ProjectPanel.java
-│   ├── PublicationPanel.java
-│   └── ResearcherPanel.java
-│
-├── icons/
-    └── (application icons)
 
 
-🚀 How to Run the Project
+
+**How to Run the Project**
 
 Clone the repository:
 
